@@ -1,3 +1,16 @@
+### <div align="center">I am Backend developer with freelance👨‍💻 /div>  
+  
+
+- 🔭 I’m currently working on [ProgrammingLanguagesProject](https://github.com/ysnesra/ProgrammingLanguagesProject)  
+  
+
+- 🌱 I’m currently learning **CQRS design and MediatR library** 
+  
+
+- ❓ Ask me about anything related to **.Net Core , C#** technologies  
+  
+
+<br/>  
 # 💫 About Me:
 .Net Mvc Core 6 , Web Api de projeler geliştiriyorum. ORM Toollarından EntityFramework, Dapper Teknolojilerini kullandım.<br>ORM Tekniklerinden DbFirst ve CodeFirst Tekniklerini kullandım.
 
