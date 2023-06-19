@@ -12,7 +12,10 @@
 
 <br/>  
 # 💫 About Me:
-.Net Mvc Core 6 , Web Api de projeler geliştiriyorum. ORM Toollarından EntityFramework, Dapper Teknolojilerini kullandım.<br>ORM Tekniklerinden DbFirst ve CodeFirst Tekniklerini kullandım.
+
+I am developing projects in Net Mvc Core 6, Web Api.
+I am using EntityFramework and Dapper Technologies from ORM Tools
+I am developing projects using ORM Techniques DbFirst and CodeFirst Techniques.
 
 
 ## 🌐 Socials:
