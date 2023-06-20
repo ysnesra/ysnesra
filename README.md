@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **CQRS design and MediatR library** 
   
 
-- ❓ Ask me about anything related to **.Net**,**.Net Core** ,** C#** and **Web API** technologies  
+- ❓ Ask me about anything related to **.Net**,**.Net Core** ,**C#** and **Web API** technologies  
   
 
 <br/>  
