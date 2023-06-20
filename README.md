@@ -13,7 +13,7 @@
 <br/>  
 # 💫 About Me:
 
-I am developing projects in Net Mvc Core 6, Web Api.
+I am developing projects in **.Net**,**.Net Core** ,**C#** and **Web API** 
 
 I am using EntityFramework and Dapper Technologies from ORM Tools
 
