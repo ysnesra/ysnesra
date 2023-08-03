@@ -1,4 +1,4 @@
-### <div align="center">I'm Backend developer with freelance /div>  
+### <div align="center">I'm Backend developer with freelance   
   
 
 - 🔭 I’m currently working on [ProgrammingLanguagesProject](https://github.com/ysnesra/ProgrammingLanguagesProject)  
