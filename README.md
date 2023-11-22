@@ -1,10 +1,10 @@
-### <div align="center">I'm Backend developer with freelance   
+### <div align="center">I'm Backend developer with remote   
   
 
-- 🔭 I’m currently working on [ProgrammingLanguagesProject](https://github.com/ysnesra/ProgrammingLanguagesProject)  
+- 🔭 I'm currently developing on Web API Project in worked Company 
   
 
-- 🌱 I’m currently learning **CQRS design and MediatR library** 
+- 🌱 I’m currently learning **Redis and Hangfire library** 
   
 
 - ❓ Ask me about anything related to **.Net**,**.Net Core** ,**C#** and **Web API** technologies  
@@ -19,6 +19,17 @@ I am using EntityFramework and Dapper Technologies from ORM Tools
 
 I am developing projects using ORM Techniques DbFirst and CodeFirst Techniques.
 
+KEY TECHNICAL SKILLS:
+
+.NET, .NET Core , C#
+OOP , Web Services, Web API
+JavaScript, JQuery, Hangfire, Docker
+EF, EF Core, Dapper
+PostgreSQL , MsSQL, T-SQL ,MongoDB
+HTML, CSS
+MVC, N-Tier Architecture , Onion Architecture
+SOLID Principle , CQRS , Mediator Pattern
+Git -Azure Devops
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/esraysn#2293) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/esrayasn_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esrayasn/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@esrayasin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Esrayasnn) 
