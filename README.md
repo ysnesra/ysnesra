@@ -7,15 +7,15 @@
 - 🌱 I’m currently learning **Redis and Hangfire library** 
   
 
-- ❓ Ask me about anything related to **.Net**,**.Net Core** ,**C#** and **Web API** technologies  
+- ❓ Ask me about anything related to **.Net**,**.Net Core** ,**C#** ,**MVC Core** and **Web API** technologies  
   
 
 <br/>  
 # 💫 About Me:
 
-I am developing projects in **.Net**,**.Net Core** ,**C#** and **Web API** 
+I am developing projects in **.Net**,**.Net Core** ,**C#** ,**MVC Core** and **Web API** 
 
-I am using EntityFramework and Dapper Technologies from ORM Tools
+I am using EntityFramework Core and Dapper Technologies from ORM Tools
 
 I am developing projects using ORM Techniques DbFirst and CodeFirst Techniques.
 
